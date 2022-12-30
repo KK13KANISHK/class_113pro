@@ -1,0 +1,11 @@
+body{
+    background-color:darkturquoise;
+    font-size: 21px;
+}
+
+#camera{
+    width : 380px;
+    height : 280px;
+    border-radius: 30px;
+    border-style: dotted;
+}
